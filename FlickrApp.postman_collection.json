@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "8b94a551-66dd-4343-8013-c8bf3142bc70",
+		"name": "FlickrApp",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GetPopuler",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
